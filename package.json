@@ -12,6 +12,9 @@
     "duplicates",
     "element"
   ],
+  "publishConfig": {
+    "registry": "https://github.com/smgolani/remove-element-duplicate-array.git"
+  },
   "author": "Smgolani <smgolani@gmail.com>",
   "license": "ISC"
 }
