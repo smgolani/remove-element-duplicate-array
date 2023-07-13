@@ -12,6 +12,11 @@
     "duplicates",
     "element"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smgolani/remove-element-duplicate-array.git"
+  },
+  "homepage": "https://github.com/smgolani/remove-element-duplicate-array.git#readme",
   "publishConfig": {
     "registry": "https://github.com/smgolani/remove-element-duplicate-array.git"
   },
