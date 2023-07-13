@@ -1,0 +1,17 @@
+{
+  "name": "remove-element-duplicate-array",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "remove",
+    "array",
+    "duplicates",
+    "element"
+  ],
+  "author": "Smgolani <smgolani@gmail.com>",
+  "license": "ISC"
+}
